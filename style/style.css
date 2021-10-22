@@ -1,0 +1,21 @@
+h1 {
+    color:rgb(146, 146, 146);
+    font-style: initial;
+    font-weight: bold;
+    font-family: cursive;
+}
+body {
+    background-image: url("../img/ррррр.jpg");
+}
+a {
+    color:rgb(255, 255, 255)
+}
+p {
+    color: floralwhite;
+}
+li {
+    color: floralwhite;
+}
+pre {
+    color: floralwhite;
+}

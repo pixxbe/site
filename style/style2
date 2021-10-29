@@ -1,0 +1,58 @@
+body.lite {
+    background-color: rgb(255, 255, 255);
+}
+header.bite {
+    background-color: crimson;
+    height: 200px;
+    width: 800px;
+    margin-top:10px;
+    margin-bottom:10px;
+    margin-left: auto;
+    margin-right: auto;
+}
+nav.tite {
+    background-color:darkblue;
+    height: 200px;
+    width: 800px;
+    margin-top:10px;
+    margin-bottom:10px;
+    margin-left: auto;
+    margin-right: auto;
+}
+main.pite {
+    height: 300px;
+    width: 800px;
+    margin-top:10px;
+    margin-bottom:10px;
+    margin-left: auto;
+    margin-right: auto;
+}
+footer.fite {
+    background-color:darkorange;
+    height: 200px;
+    width: 800px;
+    margin-top:00px;
+    margin-bottom:10px;
+    margin-left: auto;
+    margin-right: auto;
+}
+aside.rite {
+    background-color: darkturquoise;
+    float:left;
+    margin-top:10px;
+    margin-bottom:10px;
+    height: 280px;
+    width: 350px;
+    margin-left: auto;
+    margin-right: auto;
+}
+div.gite {
+    background-color: dodgerblue;
+    float:right;
+    height: 280px;
+    width: 400px;
+    margin-top:10px;
+    margin-bottom:10px;
+    margin-left: auto;
+    margin-right: auto;
+}
